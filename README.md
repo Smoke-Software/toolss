@@ -16,4 +16,4 @@ chmod +x Tools.py
 python Tools.py
 ```
 # Скриншот
-<img src="https://i.imgur.com/OhhVPzU.png"/>
+<img src="https://raw.githubusercontent.com/Smoke-Software/toolss/main/photo_2022-02-12_17-05-15.jpg"/>
