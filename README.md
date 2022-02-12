@@ -2,10 +2,12 @@
 Автоматический установщик хакерских утилит (ТОЛЬКО ДЛЯ ТЕРМУКС!)
 
 Оригинальный репозиторий: https://github.com/AnonHackerr/toolss
+
 Original repository: https://github.com/AnonHackerr/toolss
+
 Facebook: https://www.facebook.com/kalinuxtutorials/
 
-# Установка:
+# **Установка:**
 
 ```
 git clone https://github.com/AnonHackerr/toolss.git
