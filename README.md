@@ -10,7 +10,7 @@ Facebook: https://www.facebook.com/kalinuxtutorials/
 # **Установка:**
 
 ```
-git clone https://github.com/AnonHackerr/toolss.git
+git clone https://github.com/Smoke-Software/toolss
 cd toolss
 chmod +x Tools.py
 python Tools.py
